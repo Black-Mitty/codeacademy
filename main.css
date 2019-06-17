@@ -17,7 +17,7 @@ h2 {
 
 
 .hero {
-	background-image: url('s3://mittyspiratecove/maxresdefaultcthulu.jpg');
+	background-image: url('maxresdefaultcthulu.jpg');
 	background-position: center top;
 	background-size: cover;
 	padding: 250px 0;
